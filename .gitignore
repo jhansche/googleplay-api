@@ -7,3 +7,7 @@
 
 # ignore downloaded apps
 *.apk
+
+# ignore build/setup artifacts
+build
+*.egg-info
